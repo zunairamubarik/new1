@@ -1,0 +1,127 @@
+.flexcontainer{
+    display: flex;
+    background-color: rgb(75, 53, 53);
+}
+.image{
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+}
+.name{
+    color: white;
+    margin-top: 50px;
+    font-family: cambria;
+}
+.heading{
+    color: white;
+    margin-top: -10px;
+    font-family: cambria;
+}
+.icon1{
+    margin-top: 30px;
+    right: 300px;
+    position: absolute;
+}
+.icon2{
+    margin-top: 60px;
+    right: 300px;
+    position: absolute;
+}
+.icon3{
+    margin-top: 90px;
+    right: 300px;
+    position: absolute;
+}
+.icon4{
+    margin-top: 120px;
+    right: 300px;
+    position: absolute;
+}
+.text1{
+    color: white;
+    margin-top: 32px;
+    position: absolute;
+    right: 90px;
+    
+}
+.text2{
+    color: white;
+    margin-top: 63px;
+    position: absolute;
+    right: 80px;
+}
+.text3{
+    color: white;
+    margin-top: 90px;
+    position: absolute;
+    right: 100px;
+}
+.text4{
+    color: white;
+    margin-top: 120px;
+    position: absolute;
+    right: 100px;
+}
+.flexcontainer2{
+    display: flex;
+    background-color: rgb(10, 63, 10);
+}
+.heading1{
+    color: white;
+    padding-left: 150px;
+    font-family: cambria;
+}
+.line{
+    height: 70px;
+    width: 0px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.para{
+    color: white;
+    padding-left: 30px;
+    font-family: cambria;
+}
+.flexcontainer3{
+    display: flex;
+  
+}
+.name1{
+    font-family: cambria;
+    padding-left: 20px;
+}
+.date{
+    font-family: cambria;
+    padding-left: 1000px;
+}
+.hr{
+    margin-top: -10px;
+    padding-left: 20px;
+    font-family: cambria;
+}
+.cname{
+    margin-top: -10px;
+    padding-left: 20px;
+    font-family: cambria;
+}
+.city{
+    margin-top: -10px;
+    padding-left: 20px;
+    font-family: cambria;
+}
+.dname{
+    margin-top: -10px;
+    padding-left: 20px;
+    font-family: cambria;
+}
+.text{
+    margin-top: -10px;
+    padding-left: 20px;
+    font-family: cambria;
+}
+.footer{
+    margin-top: -10px;
+    padding-left: 20px;
+    font-family: cambria;
+}
+
